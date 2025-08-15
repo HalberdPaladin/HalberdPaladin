@@ -8,7 +8,6 @@
 - 🌱 I’m currently learning **Data Science and Algorithms, C++**
 
 - **About Me -**
-- <ol type ="1">
 <li>Anime Watcher</li>
 <li>Student</li>
 <li>I like to play Games</li>
